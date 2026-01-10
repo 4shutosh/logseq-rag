@@ -1,0 +1,53 @@
+- [[BJJ]] #notes
+	- Comp Strategy
+		- Standing Game
+			- Shoot Single leg
+				- Raise Up
+					- sweep the other leg
+				- Run the pipe
+			- Ankle Pic
+				- Make the U like Islam Makachev
+				- Take the back
+			- Try to foot sweep when they are rotating, with an under hook on one side
+		- Guard
+			- Take hooks
+				- trip pod sweep
+				- butterfly guard
+				- Threaten triangle enteries
+				- Should crunch
+			- Single Leg X
+				- Foot lock
+		- Back
+			- Turtle
+				- Get hooks in
+					- One long hook if they are on quad pod
+				- After hooks
+					- nelson
+					- seatbelt
+				- Drop them infront or to the side -> work towards an RNC or arm bar
+			- Get on Top
+		- Side control -> try to get on top
+			- if points, keep on switching from side to top, top to side doesn't give you a point
+		- Submissions from side control
+			- Darce
+			- Front head lock -> guillotine
+			- Americano
+			- Triangle
+			- Arm Bar
+			- Rolling back take
+		- Defence
+			- Arm Triangle, don't give him the elbow?
+			- Back
+				- Don't let get him the leg hooks
+				- Fight the head
+				- Stack on him
+				- Ankle Lock
+				- Fall on the side of underhook when seatbelt
+			- Side control
+				- Offbalance
+					- Sweep
+					- Bring in the leg or the elbow
+						- Create distance
+							- maintain distance, wrestle up
+				- Buggy?
+		-

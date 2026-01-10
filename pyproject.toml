@@ -1,0 +1,14 @@
+[project]
+name = "logseq-rag"
+version = "0.1.0"
+description = "RAG for my daily life notes"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "argparse>=1.4.0",
+    "chromadb>=1.4.0",
+    "langchain>=1.2.3",
+    "langchain-text-splitters>=1.1.0",
+    "litellm>=1.80.13",
+    "python-dotenv>=1.2.1",
+]
