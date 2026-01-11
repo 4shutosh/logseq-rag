@@ -1,6 +1,4 @@
 ## no chunking and embedding here, just user ops
-# Won't work right now, because the db is not persistent
-
 
 from retrieval import retrieve_via_query
 def retrieve_documents(query: str, top_k: int =5) -> list:
